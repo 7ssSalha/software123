@@ -10,6 +10,8 @@ public class SWpro {
 		// TODO Auto-generated method stub
 		print("hussein");
 		print("hussein");
+		print("hussein");
+		print("hussein");
 	}
 
 }
