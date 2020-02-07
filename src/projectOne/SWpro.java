@@ -12,6 +12,10 @@ public class SWpro {
 		print("hussein");
 		print("hussein");
 		print("hussein");
+		print("hussein");
+		print("hussein");
+		print("hussein");
+		print("hussein");
 	}
 
 }
